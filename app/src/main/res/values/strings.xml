@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Index Pulse</string>
+    <string name="app_subtitle">Simulated Index Options Desk</string>
+    <string name="simulation_banner_title">SIMULATED SIGNAL FEED • DEMO SETUPS</string>
+    <string name="simulation_banner_subtitle">Generated option setups for educational analysis. Connect a broker API for live feeds.</string>
+    <string name="nav_signals">Signals</string>
+    <string name="nav_calculator">Sizer</string>
+    <string name="nav_watchlist">Saved</string>
+    <string name="action_refresh">Refresh Setups</string>
+    <string name="action_save">Save signal</string>
+    <string name="action_unsave">Remove saved signal</string>
+    <string name="filter_all">All</string>
+    <string name="filter_buy">Strong Buy</string>
+    <string name="filter_sell">Strong Sell</string>
+    <string name="filter_saved">Saved</string>
+    <string name="label_entry">Entry</string>
+    <string name="label_target_1">Target 1</string>
+    <string name="label_target_2">Target 2</string>
+    <string name="label_stop_loss">Stop Loss</string>
+    <string name="label_accuracy">Accuracy</string>
+    <string name="label_risk_reward">Risk / Reward</string>
+    <string name="empty_saved_title">No Saved Setups Yet</string>
+    <string name="empty_saved_desc">Tap the bookmark icon on any index option signal to pin it here for quick tracking and position sizing.</string>
+    <string name="empty_filtered_title">No Matching Signals</string>
+    <string name="empty_filtered_desc">Try switching filters or refresh to generate a fresh batch of simulated index setups.</string>
+    <string name="disclaimer_title">Methodology &amp; Simulation Notice</string>
+    <string name="disclaimer_body">Targets are modeled at +15% (T1) and +30% (T2) with a -15% protective Stop Loss from simulated option premium entry. Not investment advice.</string>
+</resources>

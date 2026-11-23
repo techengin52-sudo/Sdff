@@ -1,0 +1,6 @@
+{
+  "name": "Index Pulse",
+  "description": "Simulated Indian index options signals dashboard for NIFTY 50, BANK NIFTY, SENSEX, and FINNIFTY with entry, target, stop-loss, and position sizing analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
